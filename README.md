@@ -1,13 +1,13 @@
 
-<h3>Hi! **Abrar Shahid** here. A 16 year old with aspiring dreams to change the world.🌎 (obviously not gonna happen)  </h3>
+<h3>Hi! Abrar Shahid here. A 16 year old with aspiring dreams to change the world.🌎 (obviously not gonna happen)  </h3>
 <h4>
-- 💻 Currently working Full Stack Web🌐 Development with FastAPI,Node,Hono,Astro and Next.js.<br>
-- 🖥️ Trying to learn 📈Gradient Descent, 📊PID, 📉Kalman Filters but failing😿 each time.<br>
-- 💡  Certified 📜 Procrastinator. Wishlist🌠 now more like dream.<br>
- -🤖 Back to Robotics⚡ again. Working more on software side👩‍💻 and Raspberry Pi🥧<br>
-- 🧠 Fascinated in Neural Networks, and Generation Algorithms <br>
-- 📷 Image Processing? done without the optimization part.(yk I make 5-15 FPS🦥 models)<br>
-- 📫 Contact? 📫 Don't want weirdos slidin my DM's <br>
+- 💻 Currently working Full Stack Web🌐 Development with FastAPI,Node,Hono,Astro and Next.js.<br><br>
+- 🖥️ Trying to learn 📈Gradient Descent, 📊PID, 📉Kalman Filters but failing😿 each time.<br><br>
+- 💡  Certified 📜 Procrastinator. Wishlist🌠 now more like dream.<br><br>
+ -🤖 Back to Robotics⚡ again. Working more on software side👩‍💻 and Raspberry Pi🥧<br><br>
+- 🧠 Fascinated in Neural Networks, and Generation Algorithms <br><br>
+- 📷 Image Processing? done without the optimization part.(yk I make 5-15 FPS🦥 models)<br><br>
+- 📫 Contact? 📫 Don't want weirdos slidin my DM's <br><br><br><br><br><br><br><br><br>
 <img src ="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
  </h4>
   <h1>🛠️ Technolgies & Tools</h1>
